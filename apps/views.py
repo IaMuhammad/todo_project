@@ -54,7 +54,7 @@ class TaskView(LoginRequiredMixin, ListView):
         if search_input:
             context['tasks'] = context['tasks'].filter(title__startswith=search_input)
 
-        context['serach_input'] = search_input
+        context['search_input'] = search_input
         return context
 
 
