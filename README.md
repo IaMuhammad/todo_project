@@ -1,3 +1,4 @@
+<p align="center">
 # todo_project
 Hello, this is my first project in Django. In this repository, **CRUD** operations on the database are performed.
 #
@@ -29,3 +30,4 @@ You can delete the task by clicking the x icon next to it. Such a window will op
 
 
 # THE END
+   </p>
