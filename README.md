@@ -11,7 +11,7 @@ You can register on this site and create your own **personal diary**. That is, y
     * sqlparse==0.4.3
 
 # Register and Login
-This is register and login page.
+This is register and login page.<br>
 ![alt text](images/readme/register.png) 
 ![alt text](images/readme/login.png)
 
