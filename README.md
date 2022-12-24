@@ -26,7 +26,7 @@ This is the task you want to create. Below you will see booleanfield. It indicat
 
 In this picture you can see two different tasks. A row painted with a green circle means that it is done.<br>
 <p align="center">
-   
+   <img align="center" src="images/readme/delete.png">
    ![alt text](images/readme/task_list.png)
 </p>
 
