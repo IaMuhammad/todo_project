@@ -27,3 +27,5 @@ In this picture you can see two different tasks. A row painted with a green circ
 You can delete the task by clicking the x icon next to it. Such a window will open. It will confirm that you want to delete.<br>
 ![alt text](images/readme/delete.png)
 
+
+# THE END
