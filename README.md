@@ -20,17 +20,17 @@ This is register and login page.<br>
 
 This is the task you want to create. Below you will see booleanfield. It indicates that the task has been completed. If you want to change the information of any task, you can change it in the next window by clicking on the relevant line.<br>
 <p align="center">
-![alt text](images/readme/completed_task.png)
+   ![alt text](images/readme/completed_task.png)
 </p>
 
 In this picture you can see two different tasks. A row painted with a green circle means that it is done.<br>
 <p align="center">
-![alt text](images/readme/task_list.png)
+   ![alt text](images/readme/task_list.png)
 </p>
 
 You can delete the task by clicking the x icon next to it. Such a window will open. It will confirm that you want to delete.<br>
 <p align="center">
-![alt text](images/readme/delete.png)
+   ![alt text](images/readme/delete.png)
 </p>
 
 
