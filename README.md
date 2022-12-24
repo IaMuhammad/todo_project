@@ -32,6 +32,6 @@ You can delete the task by clicking the x icon next to it. Such a window will op
 <p align="center">
    ![alt text](images/readme/delete.png)
 </p>
-
+.
 
 # THE END
