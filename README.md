@@ -15,6 +15,7 @@ This is register and login page.<br>
 ![alt text](images/readme/register.png) 
 ![alt text](images/readme/login.png)
 
+<br><br><br>
 * ***After login you can create your own to do tasks.***<br/>
 
 This is the task you want to create. Below you will see booleanfield. It indicates that the task has been completed. If you want to change the information of any task, you can change it in the next window by clicking on the relevant line.<br>
