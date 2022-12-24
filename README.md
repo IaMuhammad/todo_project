@@ -31,10 +31,7 @@ In this picture you can see two different tasks. A row painted with a green circ
 </p>
 
 You can delete the task by clicking the x icon next to it. Such a window will open. It will confirm that you want to delete.<br>
-<p align="center">
-   
-   ![alt text](images/readme/delete.png)
-</p>
-.
+<img align="center" src="images/readme/delete.png">
+
 
 # THE END
